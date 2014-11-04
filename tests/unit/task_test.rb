@@ -1,6 +1,5 @@
 require './tests/test_helper'
 
-
 scope do
 
   setup do
